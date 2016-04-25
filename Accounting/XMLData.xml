@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs>
+  <Name>defaultName</Name>
+  <FiscalYear>defaultFiscalYear(mm/dd/yyyy)</FiscalYear>
+  <Contact>defaultContact</Contact>
+  <Address>defaultAddress</Address>
+  <MiscNote>defaultMiscNote</MiscNote>
+  <Contributors>
+    <defaultContributor1>contributor1</defaultContributor1>
+    <defaultContributor2>contributor2</defaultContributor2>
+  </Contributors>
+</Programs>

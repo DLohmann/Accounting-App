@@ -1,0 +1,13 @@
+c:\users\david\documents\visual studio 2015\Projects\Accounting\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\David\Documents\Visual Studio 2015\Projects\Accounting\Accounting\bin\Debug\Accounting.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\Accounting\Accounting\bin\Debug\Accounting.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Accounting\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\Accounting\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\Accounting\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+C:\Users\David\Documents\Visual Studio 2015\Projects\Accounting\Accounting\obj\Debug\Accounting.exe
+C:\Users\David\Documents\Visual Studio 2015\Projects\Accounting\Accounting\obj\Debug\Accounting.pdb
+C:\Users\David\Documents\Visual Studio 2015\Projects\Accounting\Accounting\obj\Debug\Accounting.CompanyPage.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\Accounting\Accounting\obj\Debug\Accounting.DetailsPage.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\Accounting\Accounting\obj\Debug\Accounting.DetailsViewer.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\Accounting\Accounting\obj\Debug\Accounting.ProgramListPage.resources
+C:\Users\David\Documents\Visual Studio 2015\Projects\Accounting\Accounting\obj\Debug\Accounting.SingleProgramPage.resources
