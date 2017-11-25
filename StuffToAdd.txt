@@ -1,0 +1,13 @@
+-Make the default save location to a random
+-Make it save to temporary, hidden folder 
+-Make folder have a hexidecimal name that only app can find, 
+-Encrypt the folder.
+-Can add any file to this folder, encryped, using app.
+-Allow programs to have more programs, like in a tree. So company has programs that have programs that have programs, etc. Organized as a tree, with company as root of tree.
+
+-Use Altova XML Spy  to learn XML Schema (has a free trial), Document Type Schema
+-Add delete button shortcut
+-Build version of file explorer that can save data securely and encrypedly and view it before saving.
+-Manage windows so user can click behind window and only 1 window is used
+
+
